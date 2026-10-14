@@ -47,8 +47,8 @@
     "eslint-plugin-testing-library": "^5.11.0",
     "eslint-plugin-unused-imports": "^2.0.0",
     "react-ga4": "^2.1.0",
-    "stylelint": "^15.10.1",
-    "stylelint-config-standard-scss": "^10.0.0"
+    "stylelint": "^17.16.0",
+    "stylelint-config-standard-scss": "^17.0.0"
   },
   "overrides": {
     "minimist": "^1.2.6",
