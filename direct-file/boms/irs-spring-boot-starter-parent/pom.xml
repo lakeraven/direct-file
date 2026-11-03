@@ -43,7 +43,7 @@
         <commons-compress.version>1.26.0</commons-compress.version>
         <commons-io.version>2.15.1</commons-io.version>
         <commons-text.version>1.12.0</commons-text.version>
-        <guava-version>33.0.0-jre</guava-version>
+        <guava-version>33.7.1-jre</guava-version>
         <wiremock.version>3.9.1</wiremock.version>
         <openfeature.version>1.14.1</openfeature.version>
 
